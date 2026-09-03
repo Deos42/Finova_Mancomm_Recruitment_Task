@@ -41,7 +41,7 @@ The strategy operates on systematic trend-following mechanics without discretion
 | :--- | :--- | :--- |
 | Total Trades | 47 | High turnover across testing window |
 | Winning Trades | 10 | Positive PnL executions |
-| Losing Trades | 37 | False breakout / whipsaw exits |
+| Losing Trades | 37 | False breakouts |
 | Win Rate | 21.28% | Classical low win-rate profile of lagging momentum |
 | Net Realized PnL | -₹4,364.40 | Unprofitable after churning during consolidation |
 | Largest Single Winner | +2.67% (+₹2,545.60) | Trade #27 (Aug 27, 2026 – Aug 28, 2026) |
